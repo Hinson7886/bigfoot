@@ -1,3 +1,29 @@
+/*--------------COLOR STYLES------------*/
+
 p {
 	color: rgb(249,255,235);
+
 }
+
+h1{
+	color: rgb(118,175,49);
+}
+
+h3 {
+	color: rgb(249,255,235);
+
+}
+/*--------------COLOR STYLES------------*/
+
+img {
+	width: 600px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(105,105,105);
+
+}
+
+body{
+	background-color: rgb(34,34,34);
+}
+
